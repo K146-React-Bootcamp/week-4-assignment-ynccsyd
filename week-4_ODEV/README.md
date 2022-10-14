@@ -1,3 +1,64 @@
+# WEEK-4 React Using Router
+
+-In this project you have to know:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
+</div>
+-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+```
+npm create-react-app week-4_ODEV
+npm install
+npm install prop-types
+npm install --save react-linkedin-share-link
+npm install react-router-dom@5.2.0
+npm install react-bootstrap bootstrap
+npm start
+```
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+
+[Here](https://github.com/K146-React-Bootcamp/week-4-assignment-ynccsyd/tree/main/week-4_ODEV) you can find source codes:)
+
+[week4.webm](https://user-images.githubusercontent.com/109158340/195928323-234b7e68-17b1-4a58-a804-ef970c3b5116.webm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
