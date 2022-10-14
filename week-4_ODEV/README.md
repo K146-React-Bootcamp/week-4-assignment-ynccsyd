@@ -1,11 +1,11 @@
-# WEEK-4 React Using Router
+# `WEEK-4 React Using Router`
 
 -In this project you have to know:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
--This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 
